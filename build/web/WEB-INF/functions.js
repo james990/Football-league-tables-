@@ -1,0 +1,619 @@
+
+$(function(){
+$("#home").hide();
+$('#box1').click(function(){
+$('#events').slideUp(800);
+$('#bio').slideUp(800);
+$('#forum').slideUp(800);
+$('#contact').slideUp(800);
+$('#yipyap').slideUp(800);
+$('#home').slideToggle(800);
+
+	});
+	});
+	
+	$(function(){
+$("#events").hide();
+$('#box2').click(function(){
+$('#home').slideUp(800);
+$('bio').slideUp(800);
+$('#forum').slideUp(800);
+$('#contact').slideUp(800);
+$('#yipyap').slideUp(800);
+$('#events').slideToggle(800);
+
+	});
+	});
+	
+	$(function(){
+$("#bio").hide();
+$('#box3').click(function(){
+$('#home').slideUp(800);
+$('#events').slideUp(800);
+$('#forum').slideUp(800);
+$('#contact').slideUp(800);
+$('#yipyap').slideUp(800);
+$('#bio').slideToggle(800);
+	});
+	});
+	
+	$(function(){
+$("#forum").hide();
+$('#box4').click(function(){
+$('#bio').slideUp(800);
+$('#events').slideUp(800);
+$('#home').slideUp(800);
+$('#contact').slideUp(800);
+$('#yipyap').slideUp(800);
+$('#forum').slideToggle(800);
+	});
+	});
+	
+		$(function(){
+$("#contact").hide();
+$('#box5').click(function(){
+$('#forum').slideUp(800);
+$('#events').slideUp(800);
+$('#bio').slideUp(800);
+$('#home').slideUp(800);
+$('#yipyap').slideUp(800);
+$('#contact').slideToggle(800);
+	});
+	});
+	
+		$(function(){
+$("#yipyap").hide();
+$('#box6').click(function(){
+$('#contact').slideUp(800);
+$('#events').slideUp(800);
+$('#bio').slideUp(800);
+$('#forum').slideUp(800);
+$('#home').slideUp(800);
+$('#yipyap').slideToggle(800);
+	});
+	});
+	
+		$(function(){
+$('#close').click(function(){
+$('#home').slideUp(800);
+	});
+	});
+
+		$(function(){
+$('#close2').click(function(){
+$('#events').slideUp(800);
+
+	});
+	});
+		$(function(){
+$('#close3').click(function(){
+$('#bio').slideUp(800);
+
+	});
+	});
+		$(function(){
+$('#close4').click(function(){
+$('#forum').slideUp(800);
+
+	});
+	});
+		$(function(){
+$('#close5').click(function(){
+$('#contact').slideUp(800);
+
+	});
+	});
+		$(function(){
+$('#close6').click(function(){
+$('#yipyap').slideUp(800);
+
+	});
+	});
+	
+	
+	
+	
+	
+	
+	
+$(function(){
+$("#Arsenal").hide();
+$('#teams1').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Arsenal').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Villa").hide();
+$('#teams2').click(function(){
+$('#Arsenal').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Villa').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Cardiff").hide();
+$('#teams3').click(function(){
+$('#Villa').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Cardiff').slideToggle(800);
+	});
+	});
+$(function(){
+$("#Chelsea").hide();
+$('#teams4').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Chelsea').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Palace").hide();
+$('#teams5').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Palace').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Everton").hide();
+$('#teams6').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Everton').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Fulham").hide();
+$('#teams7').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Fulham').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Hull").hide();
+$('#teams8').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Asenal').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Hull').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Liverpool").hide();
+$('#teams9').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Liverpool').slideToggle(800);
+	});
+	});
+$(function(){
+$("#City").hide();
+$('#teams10').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#City').slideToggle(800);
+	});
+$(function(){	
+});$("#Man").hide();
+$('#teams11').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Man').slideToggle(800);
+	});
+	});
+$(function(){
+$("#New").hide();
+$('#teams12').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#New').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Norwich").hide();
+$('#teams13').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Norwich').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Southampton").hide();
+$('#teams14').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Southampton').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Stoke").hide();
+$('#teams15').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southampton').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Stoke').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Sunderland").hide();
+$('#teams16').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southhampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Sunderland').slideToggle(800);
+	});
+	});
+$(function(){	
+$("#Swansea").hide();
+$('#teams17').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southhampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Swansea').slideToggle(800);
+	});
+	});
+$(function(){
+$("#Spurs").hide();
+$('#teams18').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southhampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#Spurs').slideToggle(800);
+	});
+	});
+$(function(){
+$("#WestBrom").hide();
+$('#teams19').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southhampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#WestHam').slideUp(800);
+$('#WestBrom').slideToggle(800);
+	});
+	});
+
+	$(function(){	
+$("#WestHam").hide();
+$('#teams20').click(function(){
+$('#Villa').slideUp(800);
+$('#Cardiff').slideUp(800);
+$('#Chelsea').slideUp(800);
+$('#Palace').slideUp(800);
+$('#Everton').slideUp(800);
+$('#Fulham').slideUp(800);
+$('#Hull').slideUp(800);
+$('#Liverpool').slideUp(800);
+$('#City').slideUp(800);
+$('#Man').slideUp(800);
+$('#New').slideUp(800);
+$('#Norwich').slideUp(800);
+$('#Southhampton').slideUp(800);
+$('#Stoke').slideUp(800);
+$('#Sunderland').slideUp(800);
+$('#Swansea').slideUp(800);
+$('#Spurs').slideUp(800);
+$('#Arsenal').slideUp(800);
+$('#WestBrom').slideUp(800);
+$('#WestHam').slideToggle(800);
+
+	});
+	});

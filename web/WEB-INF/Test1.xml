@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet type="text/xsl" href="Contact1.xsl"?>
+<?xml-stylesheet type="text/xsl" href="Enter1.xsl"?>
+<?xml-stylesheet type="text/xsl" href="Test1.xsl"?>
+
+
+<Football>
+	<premier_league>
+	<Teams>
+	
+	
+	
+			    <Arsenal>
+				<name>Arsenal</name>
+				</Arsenal>
+				<Aston_Villa >
+				<name>Aston Villa</name>
+				</Aston_Villa >
+				<Cardiff_City >
+				<name>Cardiff City</name>
+				</Cardiff_City >
+				<Chelsea>
+				<name>Chelsea</name>
+				</Chelsea>
+				<Crystal_Palace>
+				<name>Crystal Palace</name>
+				</Crystal_Palace>
+				<Everton >
+				<name>Everton</name>
+				</Everton >
+				<Fulham >
+				<name>Fulham</name>
+				</Fulham >				
+				<Hull_City>
+				<name>Hull City</name>
+				</Hull_City>
+				<Liverpool>
+				<name>Liverpool</name>
+				</Liverpool>
+				<Manchester_City>
+				<name>Manchester City</name>
+				</Manchester_City>
+				<Manchester_United>
+				<name>Manchester United</name>
+				</Manchester_United>
+				<Newcastle_United>
+				<name>Newcastle United</name>
+				</Newcastle_United>
+				<Norwich_City>
+				<name>Norwich City</name>
+				</Norwich_City>
+				<Southampton>
+				<name>Southampton</name>
+				</Southampton>
+				<Stoke_City>
+				<name>Stoke City</name>
+				</Stoke_City>
+				<Sunderland>
+				<name>Sunderland</name>
+				</Sunderland>
+				<Swansea_City>
+				<name>Swansea City</name>
+				</Swansea_City>
+				<Tottenham_Hotspur>
+				<name>Tottenham Hotspur</name>
+				</Tottenham_Hotspur>
+				<West_Bromwich_Albion>
+				<name>West Bromwich</name>
+				</West_Bromwich_Albion>
+				<WestHam>
+				<name>West Ham United</name>
+				</WestHam>
+								
+				</Teams>
+				
+	
+				
+		<Fixtures>
+
+
+
+<Team>
+			    <Arsenal>
+				<name>Arsenal</name>
+				</Arsenal>
+				<Aston_Villa >
+				<name>Aston Villa</name>
+				</Aston_Villa >
+				<Cardiff_City >
+				<name>Cardiff City</name>
+				</Cardiff_City >
+				<Chelsea>
+				<name>Chelsea</name>
+				</Chelsea>
+				<Crystal_Palace>
+				<name>Crystal Palace</name>
+				</Crystal_Palace>
+				<Everton >
+				<name>Everton</name>
+				</Everton >
+				<Fulham >
+				<name>Fulham</name>
+				</Fulham >				
+				<Hull_City>
+				<name>Hull City</name>
+				</Hull_City>
+				<Liverpool>
+				<name>Liverpool</name>
+				</Liverpool>
+				<Manchester_City>
+				<name>Manchester City</name>
+				</Manchester_City>
+				<Manchester_United>
+				<name>Manchester United</name>
+				</Manchester_United>
+				<Newcastle_United>
+				<name>Newcastle United</name>
+				</Newcastle_United>
+				<Norwich_City>
+				<name>Norwich City</name>
+				</Norwich_City>
+				<Southampton>
+				<name>Southampton</name>
+				</Southampton>
+				<Stoke_City>
+				<name>Stoke City</name>
+				</Stoke_City>
+				<Sunderland>
+				<name>Sunderland</name>
+				</Sunderland>
+				<Swansea_City>
+				<name>Swansea City</name>
+				</Swansea_City>
+				<Tottenham_Hotspur>
+				<name>Tottenham Hotspur</name>
+				</Tottenham_Hotspur>
+				<West_Bromwich_Albion>
+				<name>West Bromwich</name>
+				</West_Bromwich_Albion>
+				<WestHam>
+				<name>West Ham United</name>
+				</WestHam>
+
+<Versus>
+VS
+</Versus>
+
+</Team>
+		</Fixtures>
+			<Leauge_Table>
+			Live Feed
+			</Leauge_Table>	
+	
+	
+		</premier_league>
+
+		<Contact>
+		<Name>James Cosgrave</Name>
+		<Name_1>Robbie Rodrigues</Name_1>
+		<Email>jamescosgrave1234:gmail.com</Email>
+		<Email_1>robbierodrigues1234:gmail.com</Email_1>
+		<Address> National College of Ireland</Address>
+		<Business_phone>01-888727</Business_phone>
+		<Mobile>085-2289736</Mobile>
+		</Contact>
+		
+
+</Football>
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
